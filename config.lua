@@ -1,6 +1,6 @@
 Config = {}
 
-Config.Framework = "esx"
+Config.Framework = "esx" -- or qb
 
 Config.RobberyCooldown = {
     StoreRobberyCooldown = 60,
